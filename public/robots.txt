@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://silly-cactus-baad1c.netlify.app/sitemap.xml
